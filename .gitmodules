@@ -1,6 +1,6 @@
-[submodule "deepspeed"]
-	path = deepspeed
-	url = https://github.com/salouri/deepspeed-bert-training.git
 [submodule "hyperdrive"]
 	path = hyperdrive
 	url = https://github.com/salouri/ds-hyperdrive.git
+[submodule "deepspeed"]
+	path = deepspeed
+	url = https://github.com/salouri/deepspeed-bert-training.git
